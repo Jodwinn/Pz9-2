@@ -8,7 +8,7 @@ int main() {
     const int cols = 2;
     const int rows = 2;  
 
-    int matrix1[cols][cols] = {
+    int matrix1[rows][cols] = {
         {1, 2},
         {3, 4}
     };
